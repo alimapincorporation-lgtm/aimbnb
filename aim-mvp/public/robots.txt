@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /book.html
+Disallow: /payment.html
+Disallow: /booking-confirmation.html
+Disallow: /booking-cancel.html
